@@ -1,0 +1,30 @@
+Nothing wrong with the house.
+Nothing wrong with the house.
+Nothing wrong with the house.
+Heating unit is working to rise temperature to 22
+
+Cooling unit is working to drop temperature to 22
+Nothing wrong with the house.
+Nothing wrong with the house.
+-------
+Fire sensor is on:
+Alarm has started!
+Owner is being called!
+-------------Heating unit is working to rise temperature to 22
+No fire.
+Heating unit is working to rise temperature to 22
+Heating unit is working to rise temperature to 22
+Nothing wrong with the house.
+Nothing wrong with the house.
+
+Cooling unit is working to drop temperature to 22
+Heating unit is working to rise temperature to 22
+-------
+Fire sensor is on:
+Alarm has started!
+Owner is being called!
+-------------Nothing wrong with the house.
+
+Cooling unit is working to drop temperature to 22
+
+Cooling unit is working to drop temperature to 22

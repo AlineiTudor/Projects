@@ -1,0 +1,169 @@
+-------
+   Age=50;
+   Height=170;
+   Weight=85;
+Walking:  -Distance covered [Km]: 6.0, time [min]: 60.0, speed [k/h]: 6.0
+Calories burned: 328
+-------
+
+-------
+   Age=22;
+   Height=180;
+   Weight=78;
+Walking:  -Distance covered [Km]: 22.0, time [min]: 145.0, speed [k/h]: 9.10344827586207
+Calories burned: 591
+-------
+
+-------
+2021/05/19 18:08:32
+   Age=18;
+   Height=180;
+   Weight=90;
+Walking:  -Distance covered [Km]: 10.0, time [min]: 75.0, speed [k/h]: 8.0
+Calories burned: 639
+-------
+
+-------
+2021/05/19 18:16:19
+   Age=21;
+   Height=183;
+   Weight=78;
+Bicycling:  -Distance covered [Km]: 23.0, time [min]: 90.0, speed [k/h]: 15.333333333333332
+Calories burned: 736
+-------
+
+-------
+2021/05/19 18:25:50
+   Age=18;
+   Height=176;
+   Weight=80;
+Bicycling:  -Distance covered [Km]: 18.0, time [min]: 80.0, speed [k/h]: 13.5
+Calories burned: 555
+-------
+
+-------
+2021/05/19 18:30:09
+   Age=20;
+   Height=183;
+   Weight=78;
+Running:  -Distance covered [Km]: 14.7, time [min]: 105.0, speed [k/h]: 8.399999999999999
+Calories burned: 1140
+-------
+
+-------
+2021/05/19 18:39:09
+   Age=18;
+   Height=183;
+   Weight=80;
+Swimming: style->CRAWL, time: 120.0
+Calories burned: 1222
+-------
+
+-------
+2021/05/19 18:40:18
+   Age=17;
+   Height=170;
+   Weight=75;
+Swimming: style->BACKSTROKE, time: 100.0min
+Calories burned: 1083
+-------
+
+-------
+2021/05/19 19:35:53
+   Age=28;
+   Height=189;
+   Weight=90;
+Running:  -Distance covered [Km]: 12.0, time [min]: 100.0, speed [k/h]: 7.199999999999999
+Calories burned: 1069
+-------
+
+-------
+2021/05/19 19:42:59
+   Age=18;
+   Height=180;
+   Weight=78;
+Running:  -Distance covered [Km]: 20.0, time [min]: 120.0, speed [k/h]: 10.0
+Calories burned: 1513
+-------
+
+-------
+2021/05/19 19:43:17
+   Age=18;
+   Height=180;
+   Weight=80;
+Walking:  -Distance covered [Km]: 10.0, time [min]: 120.0, speed [k/h]: 5.0
+Calories burned: 510
+-------
+
+-------
+2021/05/19 19:43:43
+   Age=18;
+   Height=180;
+   Weight=80;
+Swimming: style->BREASTSTROKE, time: 120.0 min
+Calories burned: 1502
+-------
+
+-------
+2021/05/19 19:44:01
+   Age=18;
+   Height=180;
+   Weight=80;
+Bicycling:  -Distance covered [Km]: 25.0, time [min]: 120.0, speed [k/h]: 12.5
+Calories burned: 845
+-------
+
+-------
+2021/05/20 10:58:07
+   Age=12;
+   Height=167;
+   Weight=60;
+Running:  -Distance covered [Km]: 8.0, time [min]: 100.0, speed [k/h]: 4.8
+Calories burned: 624
+-------
+
+-------
+2021/05/20 15:50:57
+   Age=18;
+   Height=178;
+   Weight=75;
+Running:  -Distance covered [Km]: 20.0, time [min]: 130.0, speed [k/h]: 9.230769230769232
+Calories burned: 1492
+-------
+
+-------
+2021/05/20 16:29:49
+   Age=18;
+   Height=200;
+   Weight=95;
+Running:  -Distance covered [Km]: 13.0, time [min]: 120.0, speed [k/h]: 6.5
+Calories burned: 1400
+-------
+
+-------
+2021/05/21 22:42:37
+   Age=56;
+   Height=176;
+   Weight=80;
+Running:  -Distance covered [Km]: 13.0, time [min]: 60.0, speed [k/h]: 13.0
+Calories burned: 786
+-------
+
+-------
+2021/05/25 08:12:45
+   Age=18;
+   Height=180;
+   Weight=78;
+Swimming: style->BUTTERFLY, time: 90.0 min
+Calories burned: 1492
+-------
+
+-------
+2021/10/25 03:12:51
+   Age=21;
+   Height=175;
+   Weight=123;
+Running:  -Distance covered [Km]: 3.5, time [min]: 30.0, speed [k/h]: 7.0
+Calories burned: 368
+-------
+
