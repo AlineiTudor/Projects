@@ -1,0 +1,8 @@
+int32 range
+float32 contrast
+int32 gain
+string palette
+bool pinging_enabled
+int32 stream_type
+---
+bool success

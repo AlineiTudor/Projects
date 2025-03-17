@@ -1,0 +1,21 @@
+/api/v1/colormap/names: get
+/api/v1/colormap/index: get, put
+
+/api/v1/config: get, patch
+
+/api/v1/version: get
+/api/v1/serial: get
+/api/v1/status: get
+/api/v1/time: put
+/api/v1/videotext: put, delete
+/api/v1/hostname: get, put
+/api/v1/factoryreset: delete
+/api/v1/streamtypes: get
+/api/v1/streamtype: get, put
+/api/v1/logo: put, delete
+
+/api/v1/network/static: get, put
+
+/api/v1/temperature: get
+
+/api/v1/transponder: get, patch

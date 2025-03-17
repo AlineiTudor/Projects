@@ -1,0 +1,28 @@
+/api/v1/colormap/index:
+      value: 0
+
+/api/v1/config:
+      contrast: 0
+      gain: 0
+      mirror_image: true
+
+/api/v1/time: 
+      now: 0
+
+/api/v1/factoryreset:
+      value: true
+
+somerandomendpoint:
+      value: "some text"
+
+/api/v1/streamtype: 
+      value: 2
+
+/api/v1/network/static:
+      address: "192.168.2.42"
+      netmask: "255.255.255.0"
+      router: ""
+
+/api/v1/transponder:
+      enable: true
+      sonar_range: 12
