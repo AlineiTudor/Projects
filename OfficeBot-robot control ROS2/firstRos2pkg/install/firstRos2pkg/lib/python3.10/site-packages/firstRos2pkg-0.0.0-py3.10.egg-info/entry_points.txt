@@ -1,0 +1,4 @@
+[console_scripts]
+follow_character = firstRos2pkg.following_robot:main
+human_follower = firstRos2pkg.human_follower:main
+

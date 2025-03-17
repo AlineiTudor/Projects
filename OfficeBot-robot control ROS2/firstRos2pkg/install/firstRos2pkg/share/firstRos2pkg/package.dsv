@@ -1,0 +1,6 @@
+source;share/firstRos2pkg/hook/pythonpath.ps1
+source;share/firstRos2pkg/hook/pythonpath.dsv
+source;share/firstRos2pkg/hook/pythonpath.sh
+source;share/firstRos2pkg/hook/ament_prefix_path.ps1
+source;share/firstRos2pkg/hook/ament_prefix_path.dsv
+source;share/firstRos2pkg/hook/ament_prefix_path.sh

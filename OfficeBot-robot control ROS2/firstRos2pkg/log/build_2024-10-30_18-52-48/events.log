@@ -1,0 +1,60 @@
+[0.000000] (-) TimerEvent: {}
+[0.009122] (firstRos2pkg) JobQueued: {'identifier': 'firstRos2pkg', 'dependencies': OrderedDict()}
+[0.009292] (firstRos2pkg) JobStarted: {'identifier': 'firstRos2pkg'}
+[0.100403] (-) TimerEvent: {}
+[0.201830] (-) TimerEvent: {}
+[0.302369] (-) TimerEvent: {}
+[0.402833] (-) TimerEvent: {}
+[0.503579] (-) TimerEvent: {}
+[0.604170] (-) TimerEvent: {}
+[0.704489] (-) TimerEvent: {}
+[0.804937] (-) TimerEvent: {}
+[0.824243] (firstRos2pkg) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', 'setup.py', 'egg_info', '--egg-base', 'build/firstRos2pkg', 'build', '--build-base', '/home/tudor/colcon_ws/src/firstRos2pkg/build/firstRos2pkg/build', 'install', '--record', '/home/tudor/colcon_ws/src/firstRos2pkg/build/firstRos2pkg/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/tudor/colcon_ws/src/firstRos2pkg', 'env': {'TMUX': '/tmp/tmux-1000/default,46,0', 'USER': 'tudor', 'HOSTNAME': 'tudor-ASUS-EXPERTBOOK-B1500CEAE-B1500CEAE', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/home/tudor', 'OLDPWD': '/home/tudor/colcon_ws/src/firstRos2pkg/firstRos2pkg', 'TERM_PROGRAM_VERSION': '3.2a', 'ROS_PYTHON_VERSION': '3', 'COLCON_PREFIX_PATH': '/home/tudor/colcon_ws/install', 'ROS_DISTRO': 'humble', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'TERM': 'screen-256color', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/home/tudor/.local/bin:/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin', 'QT_GRAPHICSSYSTEM': 'native', 'DISPLAY': ':0', 'LANG': 'C.UTF-8', 'CONTAINER_NAME': 'hri', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'TERM_PROGRAM': 'tmux', 'TMUX_VERSION_MAJOR': '3', 'AMENT_PREFIX_PATH': '/home/tudor/colcon_ws/install/firstRos2pkg:/home/tudor/colcon_ws/install/officebots_ros2:/opt/ros/humble', 'SHELL': '/bin/bash', 'PWD': '/home/tudor/colcon_ws/src/firstRos2pkg/build/firstRos2pkg', 'LC_ALL': 'C.UTF-8', 'PYTHONPATH': '/home/tudor/colcon_ws/src/firstRos2pkg/build/firstRos2pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tudor/colcon_ws/src/firstRos2pkg/install/firstRos2pkg/lib/python3.10/site-packages:/home/tudor/colcon_ws/install/firstRos2pkg/lib/python3.10/site-packages:/home/tudor/colcon_ws/install/officebots_ros2/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'COLCON': '1', 'TMUX_PANE': '%4', 'TMUX_VERSION_MINOR': '2', 'CMAKE_PREFIX_PATH': ':/home/tudor/catkin_ws/src/marine_msgs'}, 'shell': False}
+[0.905147] (-) TimerEvent: {}
+[1.005973] (-) TimerEvent: {}
+[1.106635] (-) TimerEvent: {}
+[1.153432] (firstRos2pkg) StdoutLine: {'line': b'running egg_info\n'}
+[1.155493] (firstRos2pkg) StdoutLine: {'line': b'creating build/firstRos2pkg/firstRos2pkg.egg-info\n'}
+[1.156350] (firstRos2pkg) StdoutLine: {'line': b'writing build/firstRos2pkg/firstRos2pkg.egg-info/PKG-INFO\n'}
+[1.157670] (firstRos2pkg) StdoutLine: {'line': b'writing dependency_links to build/firstRos2pkg/firstRos2pkg.egg-info/dependency_links.txt\n'}
+[1.158702] (firstRos2pkg) StdoutLine: {'line': b'writing entry points to build/firstRos2pkg/firstRos2pkg.egg-info/entry_points.txt\n'}
+[1.159533] (firstRos2pkg) StdoutLine: {'line': b'writing requirements to build/firstRos2pkg/firstRos2pkg.egg-info/requires.txt\n'}
+[1.160270] (firstRos2pkg) StdoutLine: {'line': b'writing top-level names to build/firstRos2pkg/firstRos2pkg.egg-info/top_level.txt\n'}
+[1.160925] (firstRos2pkg) StdoutLine: {'line': b"writing manifest file 'build/firstRos2pkg/firstRos2pkg.egg-info/SOURCES.txt'\n"}
+[1.163905] (firstRos2pkg) StdoutLine: {'line': b"reading manifest file 'build/firstRos2pkg/firstRos2pkg.egg-info/SOURCES.txt'\n"}
+[1.164419] (firstRos2pkg) StdoutLine: {'line': b"adding license file 'LICENSE'\n"}
+[1.165441] (firstRos2pkg) StdoutLine: {'line': b"writing manifest file 'build/firstRos2pkg/firstRos2pkg.egg-info/SOURCES.txt'\n"}
+[1.165866] (firstRos2pkg) StdoutLine: {'line': b'running build\n'}
+[1.166085] (firstRos2pkg) StdoutLine: {'line': b'running build_py\n'}
+[1.166607] (firstRos2pkg) StdoutLine: {'line': b'creating /home/tudor/colcon_ws/src/firstRos2pkg/build/firstRos2pkg/build\n'}
+[1.167225] (firstRos2pkg) StdoutLine: {'line': b'creating /home/tudor/colcon_ws/src/firstRos2pkg/build/firstRos2pkg/build/lib\n'}
+[1.167587] (firstRos2pkg) StdoutLine: {'line': b'creating /home/tudor/colcon_ws/src/firstRos2pkg/build/firstRos2pkg/build/lib/firstRos2pkg\n'}
+[1.167817] (firstRos2pkg) StdoutLine: {'line': b'copying firstRos2pkg/__init__.py -> /home/tudor/colcon_ws/src/firstRos2pkg/build/firstRos2pkg/build/lib/firstRos2pkg\n'}
+[1.168124] (firstRos2pkg) StdoutLine: {'line': b'copying firstRos2pkg/following_robot.py -> /home/tudor/colcon_ws/src/firstRos2pkg/build/firstRos2pkg/build/lib/firstRos2pkg\n'}
+[1.168402] (firstRos2pkg) StdoutLine: {'line': b'copying firstRos2pkg/human_follower.py -> /home/tudor/colcon_ws/src/firstRos2pkg/build/firstRos2pkg/build/lib/firstRos2pkg\n'}
+[1.168829] (firstRos2pkg) StdoutLine: {'line': b'running install\n'}
+[1.169393] (firstRos2pkg) StdoutLine: {'line': b'running install_lib\n'}
+[1.170598] (firstRos2pkg) StdoutLine: {'line': b'creating /home/tudor/colcon_ws/src/firstRos2pkg/install/firstRos2pkg/lib/python3.10/site-packages/firstRos2pkg\n'}
+[1.171923] (firstRos2pkg) StdoutLine: {'line': b'copying /home/tudor/colcon_ws/src/firstRos2pkg/build/firstRos2pkg/build/lib/firstRos2pkg/__init__.py -> /home/tudor/colcon_ws/src/firstRos2pkg/install/firstRos2pkg/lib/python3.10/site-packages/firstRos2pkg\n'}
+[1.172877] (firstRos2pkg) StdoutLine: {'line': b'copying /home/tudor/colcon_ws/src/firstRos2pkg/build/firstRos2pkg/build/lib/firstRos2pkg/following_robot.py -> /home/tudor/colcon_ws/src/firstRos2pkg/install/firstRos2pkg/lib/python3.10/site-packages/firstRos2pkg\n'}
+[1.173586] (firstRos2pkg) StdoutLine: {'line': b'copying /home/tudor/colcon_ws/src/firstRos2pkg/build/firstRos2pkg/build/lib/firstRos2pkg/human_follower.py -> /home/tudor/colcon_ws/src/firstRos2pkg/install/firstRos2pkg/lib/python3.10/site-packages/firstRos2pkg\n'}
+[1.175828] (firstRos2pkg) StdoutLine: {'line': b'byte-compiling /home/tudor/colcon_ws/src/firstRos2pkg/install/firstRos2pkg/lib/python3.10/site-packages/firstRos2pkg/__init__.py to __init__.cpython-310.pyc\n'}
+[1.177747] (firstRos2pkg) StdoutLine: {'line': b'byte-compiling /home/tudor/colcon_ws/src/firstRos2pkg/install/firstRos2pkg/lib/python3.10/site-packages/firstRos2pkg/following_robot.py to following_robot.cpython-310.pyc\n'}
+[1.180343] (firstRos2pkg) StdoutLine: {'line': b'byte-compiling /home/tudor/colcon_ws/src/firstRos2pkg/install/firstRos2pkg/lib/python3.10/site-packages/firstRos2pkg/human_follower.py to human_follower.cpython-310.pyc\n'}
+[1.181958] (firstRos2pkg) StdoutLine: {'line': b'running install_data\n'}
+[1.182343] (firstRos2pkg) StdoutLine: {'line': b'creating /home/tudor/colcon_ws/src/firstRos2pkg/install/firstRos2pkg/share/ament_index\n'}
+[1.182536] (firstRos2pkg) StdoutLine: {'line': b'creating /home/tudor/colcon_ws/src/firstRos2pkg/install/firstRos2pkg/share/ament_index/resource_index\n'}
+[1.182700] (firstRos2pkg) StdoutLine: {'line': b'creating /home/tudor/colcon_ws/src/firstRos2pkg/install/firstRos2pkg/share/ament_index/resource_index/packages\n'}
+[1.182887] (firstRos2pkg) StdoutLine: {'line': b'copying resource/firstRos2pkg -> /home/tudor/colcon_ws/src/firstRos2pkg/install/firstRos2pkg/share/ament_index/resource_index/packages\n'}
+[1.183188] (firstRos2pkg) StdoutLine: {'line': b'copying package.xml -> /home/tudor/colcon_ws/src/firstRos2pkg/install/firstRos2pkg/share/firstRos2pkg\n'}
+[1.183374] (firstRos2pkg) StdoutLine: {'line': b'running install_egg_info\n'}
+[1.186271] (firstRos2pkg) StdoutLine: {'line': b'Copying build/firstRos2pkg/firstRos2pkg.egg-info to /home/tudor/colcon_ws/src/firstRos2pkg/install/firstRos2pkg/lib/python3.10/site-packages/firstRos2pkg-0.0.0-py3.10.egg-info\n'}
+[1.188212] (firstRos2pkg) StdoutLine: {'line': b'running install_scripts\n'}
+[1.206842] (-) TimerEvent: {}
+[1.223785] (firstRos2pkg) StdoutLine: {'line': b'Installing follow_character script to /home/tudor/colcon_ws/src/firstRos2pkg/install/firstRos2pkg/lib/firstRos2pkg\n'}
+[1.224339] (firstRos2pkg) StdoutLine: {'line': b'Installing human_follower script to /home/tudor/colcon_ws/src/firstRos2pkg/install/firstRos2pkg/lib/firstRos2pkg\n'}
+[1.224978] (firstRos2pkg) StdoutLine: {'line': b"writing list of installed files to '/home/tudor/colcon_ws/src/firstRos2pkg/build/firstRos2pkg/install.log'\n"}
+[1.292677] (firstRos2pkg) CommandEnded: {'returncode': 0}
+[1.307882] (-) TimerEvent: {}
+[1.311418] (firstRos2pkg) JobEnded: {'identifier': 'firstRos2pkg', 'rc': 0}
+[1.313348] (-) EventReactorShutdown: {}
